@@ -1,0 +1,6 @@
+stndent=[180,170,164,199,182,172,177]
+d=[]
+for i in stndent :
+  if i>=170:
+    d.append(i)
+print(d)
